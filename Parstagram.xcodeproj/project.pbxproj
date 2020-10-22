@@ -19,6 +19,7 @@
 		DBDE5FCA25410C10002B3442 /* ParstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBDE5FC925410C10002B3442 /* ParstagramUITests.swift */; };
 		DBDE5FE725410DE9002B3442 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBDE5FE625410DE9002B3442 /* LogInViewController.swift */; };
 		DBDE5FEC25410DF7002B3442 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBDE5FEB25410DF7002B3442 /* FeedViewController.swift */; };
+		DBDE5FF1254115C0002B3442 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBDE5FF0254115C0002B3442 /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		DBDE5FCB25410C10002B3442 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DBDE5FE625410DE9002B3442 /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 		DBDE5FEB25410DF7002B3442 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		DBDE5FF0254115C0002B3442 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		F216E3856C4C743BA840C16A /* Pods-ParstagramTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ParstagramTests.debug.xcconfig"; path = "Target Support Files/Pods-ParstagramTests/Pods-ParstagramTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -144,6 +146,7 @@
 				DBDE5FA725410C0D002B3442 /* AppDelegate.swift */,
 				DBDE5FA925410C0D002B3442 /* SceneDelegate.swift */,
 				DBDE5FAD25410C0D002B3442 /* Main.storyboard */,
+				DBDE5FF0254115C0002B3442 /* CameraViewController.swift */,
 				DBDE5FE625410DE9002B3442 /* LogInViewController.swift */,
 				DBDE5FEB25410DF7002B3442 /* FeedViewController.swift */,
 				DBDE5FB025410C10002B3442 /* Assets.xcassets */,
@@ -410,6 +413,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DBDE5FA825410C0D002B3442 /* AppDelegate.swift in Sources */,
+				DBDE5FF1254115C0002B3442 /* CameraViewController.swift in Sources */,
 				DBDE5FAA25410C0D002B3442 /* SceneDelegate.swift in Sources */,
 				DBDE5FEC25410DF7002B3442 /* FeedViewController.swift in Sources */,
 				DBDE5FE725410DE9002B3442 /* LogInViewController.swift in Sources */,
